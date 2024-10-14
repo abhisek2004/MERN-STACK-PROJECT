@@ -1,8 +1,3 @@
-# MERN-STACK-PROJECT
-Sure! Here’s a detailed README template for your MERN Stack project, complete with emojis:
-
----
-
 # 🌟 MERN Stack Project 🌟
 
 Welcome to my MERN Stack project! 🚀 This project showcases my skills in building a full-stack application using MongoDB, Express.js, React.js, and Node.js. Below, you'll find a detailed overview of the project, its features, and how to get started.
@@ -81,7 +76,3 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 
 ## 📜 **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize any section to better fit your project!
