@@ -76,3 +76,27 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 
 ## 📜 **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35">Our Contributors</h2>
+<h3>Thank you for contributing to our repository</h3>
+
+![Contributors](https://contrib.rocks/image?repo=abhisek2004/MERN-STACK-PROJECT)
+
+---
+
+## Stargazers
+
+<div align='center'>
+
+[![Stargazers repo roster for @abhisek2004/MERN-STACK-PROJECT](https://reporoster.com/stars/abhisek2004/MERN-STACK-PROJECT)](https://github.com/abhisek2004/MERN-STACK-PROJECT/stargazers)
+
+</div>
+
+## Forkers
+
+<div align='center'>
+
+[![Forkers repo roster for @abhisek2004/MERN-STACK-PROJECT](https://reporoster.com/forks/abhisek2004/MERN-STACK-PROJECT)](https://github.com/abhisek2004/MERN-STACK-PROJECT/network/members)
+
+</div>
