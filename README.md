@@ -124,7 +124,7 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
-To get a local copy of this project up and running, follow these steps:
+
 
 1. **Clone the repository:**
    ```bash
