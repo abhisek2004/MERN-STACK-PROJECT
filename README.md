@@ -113,7 +113,7 @@ To get a local copy of this project up and running, follow these steps:
 - Use the application to create, update, and delete tasks as needed.
 
 
-## 🚀 **Getting Started**
+
 To get a local copy of this project up and running, follow these steps:
 
 1. **Clone the repository:**
