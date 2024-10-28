@@ -130,7 +130,6 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
-   ```
 
 
 1. **Install dependencies for the server:**
