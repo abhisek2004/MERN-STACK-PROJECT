@@ -45,7 +45,6 @@ This MERN Stack project is designed to provide users with a seamless experience 
 
 </div>
 
-
 ---
 
 ## 📊 Project Summary
