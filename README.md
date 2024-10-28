@@ -149,15 +149,6 @@ To get a local copy of this project up and running, follow these steps:
 
 ---
 
-
-
-
-
-
-
-
-
-
 ## 🤝 **Contributing**
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request. 
 
