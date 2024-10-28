@@ -64,6 +64,21 @@ To get a local copy of this project up and running, follow these steps:
    ```
 5. **Open your browser and visit:** [http://localhost:3000](http://localhost:3000)
 
+<div align="center">
+
+### 💻 Tech Stacks
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2300B488.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%232C2D2F.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237A1B2D.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+
+
 ## 🤝 **Contributing**
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request. 
 
