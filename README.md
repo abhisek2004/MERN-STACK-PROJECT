@@ -136,7 +136,7 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
-   npm start
+
    ```
 3. **Install dependencies for the client:**
    ```bash
