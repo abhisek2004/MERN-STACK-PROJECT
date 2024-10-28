@@ -134,7 +134,7 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
-   cd server
+
    npm install
    ```
 2. **Start the server:**
