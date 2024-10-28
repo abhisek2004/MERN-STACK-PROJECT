@@ -127,7 +127,6 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
-   ```bash
    git clone https://github.com/yourusername/MERN-STACK-PROJECT.git
    ```
 2. **Navigate to the project directory:**
