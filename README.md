@@ -77,7 +77,6 @@ To get a local copy of this project up and running, follow these steps:
 
 </div>
 
-Sure! Here’s a structured overview for your MERN Stack project that includes Project Summary, Key Features, Benefits, and Getting Started sections:
 
 ---
 
