@@ -136,7 +136,6 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
-2. **Start the server:**
    ```bash
    npm start
    ```
