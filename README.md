@@ -135,7 +135,7 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
-   npm install
+
    ```
 2. **Start the server:**
    ```bash
