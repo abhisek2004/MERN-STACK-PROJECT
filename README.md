@@ -128,7 +128,7 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
-   ```bash
+
    cd MERN-STACK-PROJECT
    ```
 
