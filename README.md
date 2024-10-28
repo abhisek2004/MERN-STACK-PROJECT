@@ -140,7 +140,7 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
-   cd client
+
    npm install
    ```
 4. **Start the client:**
