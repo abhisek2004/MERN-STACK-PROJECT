@@ -112,6 +112,40 @@ To get a local copy of this project up and running, follow these steps:
 - Sign up or log in to manage your tasks.
 - Use the application to create, update, and delete tasks as needed.
 
+
+## 🚀 **Getting Started**
+To get a local copy of this project up and running, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/MERN-STACK-PROJECT.git
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd MERN-STACK-PROJECT
+   ```
+
+
+1. **Install dependencies for the server:**
+   ```bash
+   cd server
+   npm install
+   ```
+2. **Start the server:**
+   ```bash
+   npm start
+   ```
+3. **Install dependencies for the client:**
+   ```bash
+   cd client
+   npm install
+   ```
+4. **Start the client:**
+   ```bash
+   npm start
+   ```
+5. **Open your browser and visit:** [http://localhost:3000](http://localhost:3000)
+
 ---
 
 Feel free to modify any sections to better fit your project!
