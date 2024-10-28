@@ -31,38 +31,6 @@ This MERN Stack project is designed to provide users with a seamless experience 
 - **JWT:** 🔑 For secure user authentication.
 - **CSS/Bootstrap:** 🎨 For styling and responsive design.
 
-## 🚀 **Getting Started**
-To get a local copy of this project up and running, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/MERN-STACK-PROJECT.git
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd MERN-STACK-PROJECT
-   ```
-
-## 🏃 **How to Run the Project**
-1. **Install dependencies for the server:**
-   ```bash
-   cd server
-   npm install
-   ```
-2. **Start the server:**
-   ```bash
-   npm start
-   ```
-3. **Install dependencies for the client:**
-   ```bash
-   cd client
-   npm install
-   ```
-4. **Start the client:**
-   ```bash
-   npm start
-   ```
-5. **Open your browser and visit:** [http://localhost:3000](http://localhost:3000)
 
 <div align="center">
 
