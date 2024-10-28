@@ -114,6 +114,16 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
+
+
+
+
+
+
+
+
+
+
 To get a local copy of this project up and running, follow these steps:
 
 1. **Clone the repository:**
@@ -148,7 +158,14 @@ To get a local copy of this project up and running, follow these steps:
 
 ---
 
-Feel free to modify any sections to better fit your project!
+
+
+
+
+
+
+
+
 
 ## 🤝 **Contributing**
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request. 
