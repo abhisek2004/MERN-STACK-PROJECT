@@ -146,7 +146,7 @@ To get a local copy of this project up and running, follow these steps:
 
 
 
-   ```
+
 5. **Open your browser and visit:** [http://localhost:3000](http://localhost:3000)
 
 ---
