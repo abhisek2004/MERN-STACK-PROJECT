@@ -48,25 +48,29 @@
 
 6. **Run the Projects:**
 
-   - **Server:**  
-     In the `/server` folder:
+   - **Backend setup:**
      ```bash
+     cd server
+     npm install
      npm start
      ```
-   - **Client:**  
-     In the `/client` folder (in a new terminal):
+   - **Frontend setup:**
+     Open a new terminal, then run:
      ```bash
+     cd ../client
+     npm install
      npm start
      ```
    - **Other Projects:**  
      Go into each project folder and run:
      ```bash
+     npm install
      npm start
      ```
      or follow the specific instructions in that folder's README.
 
 7. **Access the Application:**
-   - The client (frontend) usually runs at [http://localhost:3000](http://localhost:3000)
+   - Visit: [http://localhost:3000](http://localhost:3000) for the client (frontend)
    - The server (backend) usually runs at [http://localhost:5000](http://localhost:5000) or as specified in the `.env`
 
 ## 📝 Notes
